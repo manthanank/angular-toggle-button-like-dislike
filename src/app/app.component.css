@@ -1,0 +1,17 @@
+p {
+  font-family: Lato;
+}
+button {
+  border-radius: 5px;
+}
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+.container {
+  margin-top: 5%;
+  padding: 100px;
+}
